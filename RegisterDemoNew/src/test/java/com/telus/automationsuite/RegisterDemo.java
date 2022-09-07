@@ -50,6 +50,7 @@ public class RegisterDemo {
 
 
 		System.out.println("The application is launched successfully");
+		System.out.println("Git Configuration");
 	}
 
 	@Test(priority=2)
