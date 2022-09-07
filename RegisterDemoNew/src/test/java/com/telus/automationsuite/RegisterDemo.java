@@ -50,6 +50,7 @@ public class RegisterDemo {
 
 
 		System.out.println("The application is launched successfully");
+		//Sysout Updated by RAJ
 		System.out.println("Git Configuration");
 	}
 
